@@ -1,0 +1,63 @@
+## Build results
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Rider project files
+.idea/
+
+## VS Code settings
+.vscode/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Log files
+*.log
+
+## Publish results
+wwwroot/dist/
+wwwroot/node_modules/
+*.publish.xml
+
+## Node modules (if using frontend tooling)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+## LibMan (Library Manager)
+wwwroot/lib/
+
+## EF Core Migrations snapshots (optional)
+Migrations/*Designer.cs
+Migrations/*Snapshot.cs
+
+## Secrets
+secrets.json
+
+## Environment configs (optional)
+*.env
+
+## Others
+*.db
+*.sqlite
